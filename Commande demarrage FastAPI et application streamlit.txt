@@ -1,0 +1,7 @@
+Démarrage FastAPI : 
+cd fastapi
+uvicorn main:app --reload 
+----------------------------------
+Démarrage streamlit application :
+cd ..
+streamlit run .\dashboard_app.py 
